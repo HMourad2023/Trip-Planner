@@ -22,8 +22,7 @@ WORKDIR /app
 COPY requirements.txt .
 
 # Mettre à jour pip et installer les dépendances Python
-RUN uv pip install --upgrade pip && \
-    uv pip install --no-cache-dir -r requirements.txt
+RUN crewai install
 
 # Copier le reste de l'application
 COPY . .
