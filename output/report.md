@@ -1,258 +1,222 @@
-```markdown
-# Your Amazing Beach-Focused Adventure: Vancouver Summer 2025
-
-Welcome to Vancouver! Get ready for an incredible 14-day, 13-night escape focused on the city's stunning beaches during its peak summer season. From sun-drenched sands to vibrant city life, this itinerary is crafted for the beach lover, blending relaxation with exploration.
-
-**Trip Dates:** July 20, 2025 - August 2, 2025
-**Traveling From:** Montreal
-**Traveler Interests:** Beach
-**Duration:** 14 Days / 13 Nights
-
-Vancouver in late July/early August offers the best weather – expect warm, sunny, and dry days perfect for the beach. This period also coincides with exciting potential summer events like the Celebration of Light fireworks and Vancouver Pride festivities.
-
-## Accommodation Suggestions
-
-Choosing the right base is key for a beach-focused trip. Here are a few options:
-
-1.  **Sandman Suites Vancouver on Davie** (Mid-Range)
-    *   *Why:* Excellent location near English Bay beach and Davie Village, offering spacious suites with kitchenettes – great for saving money on breakfasts or casual meals. Easy walk to downtown and transit hubs.
-2.  **The Burrard** (Mid-Range)
-    *   *Why:* Stylish, retro-modern hotel downtown, a pleasant walk or short transit ride to English Bay and Kitsilano. Offers a cool vibe and is centrally located for exploring various neighbourhoods.
-3.  **Airbnb/Vacation Rental in Kitsilano** (Various Budgets)
-    *   *Why:* Staying in Kitsilano puts you right near Kits Beach and gives you a local neighbourhood feel with plenty of cafes and shops on 4th Avenue. Offers more space and potentially kitchen facilities.
-
-*Recommendation:* For a beach focus and potential budget savings, Sandman Suites or an Airbnb in Kitsilano are excellent choices. Let's base the itinerary generally around being accessible to the English Bay/Kitsilano area.
-
-## Estimated Budget Breakdown (CAD)
-
-This is a high-level estimate for one person, assuming a mid-range travel style, focusing on a mix of casual and some nicer dining, and factoring in activities and transport.
-
-*   **Flights (Montreal-Vancouver Round Trip):** $200 - $400 (Based on context estimate; book in advance!)
-*   **Accommodation (13 nights):**
-    *   Mid-Range Hotel (e.g., Sandman Suites): $250 - $400/night * 13 nights = $3250 - $5200
-    *   *Budget Tip:* Hostels ($60-100/night) or sharing an Airbnb would significantly reduce this. Let's budget for the mid-range hotel.
-*   **Food & Drink (14 days):**
-    *   Mix of casual eats, picnics, and some restaurants: $80 - $150/day * 14 days = $1120 - $2100
-*   **Activities & Entrance Fees:**
-    *   Museums, Rentals (bike, kayak), etc.: $30 - $70/day average * 14 days = $420 - $980
-*   **Local Transportation (Compass Card/Transit/Occasional Ride Share):** $10 - $20/day * 14 days = $140 - $280
-*   **Buffer/Miscellaneous (Souvenirs, unexpected):** $300 - $500
-
-**Total Estimated Budget (CAD per person):**
-*   **Low End:** $200 (Flight) + $3250 (Hotel) + $1120 (Food) + $420 (Activities) + $140 (Transport) + $300 (Buffer) = **$5430**
-*   **High End:** $400 (Flight) + $5200 (Hotel) + $2100 (Food) + $980 (Activities) + $280 (Transport) + $500 (Buffer) = **$9460**
-
-*Note:* These are estimates. Booking accommodation/flights early, utilizing grocery stores for meals, focusing on free activities (beaches, parks, walking), and using public transit will help keep costs down.
-
-## Packing Suggestions
-
-Vancouver in late July/early August is generally warm and sunny, but layers are always smart for coastal evenings.
-
-**Clothing:**
-*   Swimsuits (multiple, you'll use them!)
-*   Beach cover-ups/sarong
-*   Shorts, skirts, light trousers
-*   T-shirts, tank tops, short-sleeved shirts
-*   Light long-sleeved shirt or sun shirt (for sun protection)
-*   Sweatshirt, fleece, or light jacket (for cooler evenings)
-*   Rain jacket (low chance, but always possible on the West Coast!)
-*   Casual dresses or outfits for evenings
-*   Underwear and socks
-*   Pajamas
-
-**Footwear:**
-*   Comfortable walking shoes/sneakers (essential for exploring)
-*   Sandals or flip-flops (for the beach and casual wear)
-*   Water shoes (optional, for rocky beach areas if exploring beyond main beaches)
-
-**Beach Gear:**
-*   Beach towel or mat
-*   Sunscreen (high SPF)
-*   Sun hat
-*   Sunglasses
-*   Beach bag
-*   Reusable water bottle
-
-**Other Essentials:**
-*   Small backpack or day bag
-*   Camera/phone and chargers
-*   Portable power bank
-*   Book or e-reader
-*   Toiletries (include after-sun lotion)
-*   Any personal medications
-*   Small first-aid kit (band-aids for blisters!)
-*   Insect repellent (especially for evenings near parks/water)
-*   Adapter (if traveling with electronics from outside North America)
-*   Copy of travel documents (passport, booking confirmations)
-*   Compass Card (can purchase upon arrival)
-*   Credit/Debit cards and some CAD cash
-
-## Daily Itinerary: Vancouver Beach Bliss 2025
-
-**Anticipated Weather Note:** The forecast for this period is generally warm, sunny, and dry with average highs of 21-26°C and lows around 13°C. Daily entries will reflect this, assuming pleasant summer conditions unless otherwise noted. Always check a specific weather app closer to the date for the most accurate forecast.
-
----
-
-**Day 1: Saturday, July 20 - Arrival & English Bay Sunset**
-
-*   **Morning/Afternoon:** Depart Montreal (YUL) for Vancouver (YVR). Enjoy the cross-country flight.
-*   **Afternoon:** Arrive at Vancouver International Airport (YVR). Take the Canada Line SkyTrain ($) or a taxi/rideshare ($$$) to your accommodation in the downtown/English Bay/Kitsilano area. Check in and leave your luggage.
-*   **Late Afternoon:** Head towards English Bay Beach. Take a leisurely walk along the seawall, feel the ocean breeze, and get acquainted with the area.
-*   **Evening:** Find a spot on English Bay beach to relax and witness a beautiful Pacific sunset.
-*   **Dinner:** **Cactus Club Cafe English Bay**. *Why:* Popular spot right on English Bay with a lively patio, great views, and a diverse menu. Casual and fun vibe.
-*   **Anticipated Weather:** Sunny, warm, pleasant evening breeze.
-
----
-
-**Day 2: Sunday, July 21 - Kitsilano Beach & 4th Ave Charm**
-
-*   **Morning:** Walk or take a short bus ride to Kitsilano Beach. Spend the morning relaxing on the sand, swimming in the ocean, or playing beach volleyball.
-*   **Lunch:** Casual eats along **4th Avenue in Kitsilano**. *Why:* Plenty of cafes, delis, and casual restaurants like Siegel's Bagels or Nook for a post-beach bite.
-*   **Afternoon:** Visit the **Kitsilano Pool** (large outdoor saltwater pool, check opening hours/schedule closer to the date). Enjoy swimming laps or just soaking up the sun with mountain views. Alternatively, explore the boutiques and shops on 4th Avenue.
-*   **Evening:** Relax back at your accommodation or explore Davie Village if staying nearby.
-*   **Dinner:** **Fable Kitchen (Kitsilano)**. *Why:* A popular farm-to-table restaurant in Kitsilano offering delicious, creative dishes in a cozy setting.
-*   **Anticipated Weather:** Sunny, warm, perfect beach day.
-
----
-
-**Day 3: Monday, July 22 - Stanley Park Seawall & Exploration**
-
-*   **Morning:** Rent a bike near English Bay (numerous rental shops available). Cycle the famous **Stanley Park Seawall**. The full loop is about 10km (6 miles) and offers stunning coastal and forest views.
-*   **Lunch:** Pack a picnic to enjoy at a scenic spot in **Stanley Park**, like near Prospect Point (views) or along the seawall. Pick up supplies from a local grocery store.
-*   **Afternoon:** Explore more of Stanley Park. Visit the iconic **Totem Poles**, walk through the trails in the park's interior, or visit the **Vancouver Aquarium** (entrance fee applies).
-*   **Evening:** Cycle back to English Bay area. Relax and refresh.
-*   **Dinner:** **The Boathouse Restaurant (English Bay)**. *Why:* Offers seafood and other dishes with fantastic sunset views over English Bay.
-*   **Anticipated Weather:** Sunny and warm, ideal for cycling.
-
----
-
-**Day 4: Tuesday, July 23 - Jericho Beach & Watersports**
-
-*   **Morning:** Travel to Jericho Beach (bus or bike via the seawall). This beach offers a more relaxed vibe than Kits or English Bay. Find a quiet spot on the sand or in the grassy areas.
-*   **Lunch:** Grab sandwiches or snacks from a cafe near **Jericho Beach** or pack another picnic.
-*   **Afternoon:** Try some watersports! Rent a kayak, paddleboard, or try windsurfing/sailing lessons from the rental facilities at Jericho Beach. Enjoy being on the water.
-*   *Potential Event:* Check dates for the **Vancouver Folk Music Festival** at Jericho Beach Park. If it aligns, consider spending the afternoon/evening listening to live music by the water (ticket required).
-*   **Evening:** Head back towards your accommodation area.
-*   **Dinner:** Explore the **Point Grey Village** area near Jericho Beach, or head back towards Kitsilano for more options. **Nook (Kitsilano)** offers great pizza and pasta in a casual setting.
-*   **Anticipated Weather:** Sunny and warm, great for watersports.
-
----
-
-**Day 5: Wednesday, July 24 - Spanish Banks & UBC Culture**
-
-*   **Morning:** Travel to Spanish Banks Beach (bus from Kitsilano/Jericho or drive/rideshare). Check the tide times beforehand! Aim for low tide to experience the vast sand flats. Walk far out onto the sand.
-*   **Lunch:** Pack a picnic to enjoy at Spanish Banks. There are fire pits available (check regulations) if you want to cook something simple (like hot dogs).
-*   **Afternoon:** Head towards the nearby University of British Columbia (UBC) campus. Visit the stunning **Museum of Anthropology** ($) with its impressive collection of Pacific Northwest First Nations art and architecture. Alternatively, explore the peaceful **Nitobe Memorial Garden** ($), considered one of the most authentic Japanese gardens outside of Japan.
-*   **Evening:** Travel back towards the city centre.
-*   **Dinner:** Explore the vibrant **Commercial Drive** neighbourhood. *Why:* Known for its eclectic, multicultural dining scene. Find Italian, Latin American, or Ethiopian cuisine. **Absinthe Bistro** offers cozy French dining.
-*   **Anticipated Weather:** Sunny, warm, potentially a bit breezier on the wide-open beach.
-
----
-
-**Day 6: Thursday, July 25 - Granville Island & Yaletown Waterfront**
-
-*   **Morning:** Make your way to **Granville Island**. Walk, bus, or take a small ferry (Aquabus/False Creek Ferry) from a dock like the one at Sunset Beach or Yaletown.
-*   **Late Morning/Lunch:** Explore the **Granville Island Public Market**. Sample local produce, baked goods, cheeses, and choose from a wide variety of food stalls for lunch.
-*   **Afternoon:** Wander around Granville Island, visiting artisan workshops, galleries, and shops. Enjoy the atmosphere. You could also rent a kayak or paddleboard from here to explore False Creek.
-*   **Late Afternoon:** Take an Aquabus across False Creek to the **Yaletown** area. Walk along the modern waterfront park.
-*   **Evening:** Explore Yaletown's trendy warehouse district converted into a vibrant neighbourhood.
-*   **Dinner:** **The Flying Pig (Yaletown)**. *Why:* A popular spot for hearty comfort food dishes in a lively setting. Or **Minami** for high-end Aburi sushi.
-*   **Anticipated Weather:** Sunny and warm, pleasant near the water.
-
----
-
-**Day 7: Friday, July 26 - Third Beach Seclusion & Stanley Park Trails**
-
-*   **Morning:** Walk or cycle the seawall from English Bay towards Third Beach in Stanley Park. This sandy beach is more secluded than English Bay or Kits.
-*   **Lunch:** Pack snacks and water for a rustic beach day. Amenities are limited here.
-*   **Afternoon:** Relax on **Third Beach**, swim, or read a book. Afterwards, explore some of the forest trails in Stanley Park near Third Beach, like the trails around Beaver Lake (check if currently accessible/open).
-*   **Evening:** Stay at Third Beach for a more natural, quiet sunset experience compared to English Bay crowds. Head back via the seawall as dusk settles.
-*   **Dinner:** Casual dinner back near your accommodation or try a new spot in the West End area. **Stepho's Souvlaki Greek Taverna** (Robson St) is a popular, lively spot for Greek food.
-*   **Anticipated Weather:** Sunny and warm, sheltered within the park trees.
-
----
-
-**Day 8: Saturday, July 27 - Gastown History & Lookout Views**
-
-*   **Morning:** Head to Vancouver's historic neighbourhood, **Gastown**. Wander the cobblestone streets, admire the Victorian architecture, and see the famous Steam Clock.
-*   **Lunch:** Casual lunch in Gastown. **Meat & Bread** is famous for its delicious gourmet sandwiches.
-*   **Afternoon:** Explore the boutiques, galleries, and souvenir shops in Gastown. You could also visit the **Vancouver Lookout** ($) atop Harbour Centre for panoramic city views.
-*   **Late Afternoon:** Walk towards nearby Chinatown, exploring the vibrant cultural gateway.
-*   **Evening:** Enjoy the atmosphere of Gastown as it lights up.
-*   **Dinner:** **L'Abattoir (Gastown)**. *Why:* A highly-rated restaurant offering French-influenced West Coast cuisine in a beautiful historic setting (reservations highly recommended).
-*   **Anticipated Weather:** Sunny and warm, urban environment.
-
----
-
-**Day 9: Sunday, July 28 - Wreck Beach Adventure or Queen Elizabeth Park**
-
-*   **Option 1 (Adventurous Beach):** Head towards UBC/Pacific Spirit Regional Park area. Be prepared for a long, steep set of stairs down (and back up!) to access **Wreck Beach** (clothing-optional). Experience its unique, laid-back, natural vibe. Pack everything you need, as it's rustic.
-*   **Option 2 (Panoramic Views):** If Wreck Beach isn't your style, visit **Queen Elizabeth Park**. *Why:* Offers the city's best panoramic views. Explore the beautiful gardens, visit the Bloedel Conservatory ($), or play a round of pitch-and-putt golf.
-*   **Lunch:** If at Wreck Beach, pack a picnic. If at Queen Elizabeth Park, grab something from the cafe or nearby options.
-*   **Afternoon:** Spend more time at your chosen location, relaxing or exploring.
-*   *Potential Event:* This weekend might include events leading up to **Vancouver Pride Week**. Check local listings for specific events.
-*   **Evening:** Relax after a potentially active day.
-*   **Dinner:** Explore dining options in South Granville if you visited Queen Elizabeth Park, or try a new restaurant downtown. **Joe Fortes Seafood & Chop House** is a Vancouver institution for seafood.
-*   **Anticipated Weather:** Sunny and warm.
-
----
-
-**Day 10: Monday, July 29 - Revisit a Favorite Beach or Celebration of Light Prep**
-
-*   **Morning:** Choose to revisit your favorite beach from the past week – perhaps Kits for the energy, Jericho for relaxation, or English Bay for convenience. Enjoy a relaxed morning soaking up the sun and swimming.
-*   **Lunch:** Casual beachside cafe or pack a picnic.
-*   **Afternoon:** Relax or do some souvenir shopping downtown.
-*   *Potential Event:* This is a likely date for one of the nights of the **Honda Celebration of Light** fireworks competition over English Bay. *Why:* A spectacular, must-see event unique to Vancouver summers.
-*   **Evening:** If Celebration of Light is on, head to English Bay or a nearby vantage point (like Sunset Beach, parts of Stanley Park seawall, or even Kits Point) early to secure a spot. Be prepared for large crowds. Enjoy the incredible fireworks display set to music.
-*   **Dinner:** Grab casual food from vendors or restaurants near your chosen fireworks viewing spot before or after the show, or pack a picnic to eat while waiting.
-*   **Anticipated Weather:** Sunny and warm during the day, pleasant evening, potentially crowded near English Bay.
-
----
-
-**Day 11: Tuesday, July 30 - False Creek & Science World**
-
-*   **Morning:** Explore the False Creek area. Walk or cycle the seawall from Granville Island or Yaletown towards Science World. Enjoy the modern waterfront architecture and marinas.
-*   **Lunch:** Casual lunch in the False Creek area or near Science World.
-*   **Afternoon:** Visit **Science World at TELUS World of Science** ($). *Why:* An iconic geodesic dome housing fun, interactive science exhibits – entertaining regardless of age.
-*   **Late Afternoon:** Take the SeaBus ferry from Waterfront Station (easily accessible from downtown/Gastown via SkyTrain) across to **Lonsdale Quay** in North Vancouver. Enjoy the harbour views and browse the market at Lonsdale Quay.
-*   **Evening:** Take the SeaBus back to Waterfront.
-*   **Dinner:** Explore dining options near Waterfront Station or back in Gastown.
-*   **Anticipated Weather:** Sunny and warm, pleasant near the water.
-
----
-
-**Day 12: Wednesday, July 31 - Lynn Canyon Nature Escape**
-
-*   **Morning:** Take public transit (SeaBus to Lonsdale Quay, then bus) or a rideshare to **Lynn Canyon Park** in North Vancouver. *Why:* Offers a free alternative to the Capilano Suspension Bridge, with beautiful rainforest trails and a stunning suspension bridge over a canyon.
-*   **Lunch:** Pack a picnic to enjoy in Lynn Canyon Park, or grab something from a cafe near Lonsdale Quay before heading to the park.
-*   **Afternoon:** Explore the trails in Lynn Canyon Park. Visit the suspension bridge, the Twin Falls bridge, and the Baden-Powell Trail sections within the park.
-*   **Late Afternoon:** Travel back to Vancouver.
-*   **Evening:** Relax or do some last-minute souvenir shopping.
-*   **Dinner:** Choose a neighbourhood you enjoyed or try a new spot. Perhaps explore Main Street south of False Creek for breweries and casual eateries.
-*   **Anticipated Weather:** Sunny and warm in the city, likely cooler and shadier under the forest canopy in Lynn Canyon.
-
----
-
-**Day 13: Thursday, August 1 - Revisit & Relax**
-
-*   **Morning:** Enjoy a final morning at your absolute favorite beach or revisit a spot you didn't get enough of. Perhaps a long, relaxed walk at Spanish Banks or soaking up the sun at Kits.
-*   **Lunch:** A final beach picnic or visit a favorite casual spot.
-*   **Afternoon:** Relax at your accommodation, read a book, or do any last-minute activities you missed or wanted to repeat. Maybe a final walk along the seawall.
-*   *Potential Event:* This is the likely start of **Vancouver Pride** weekend festivities. Look out for smaller events or decorated areas if this interests you.
-*   **Evening:** Enjoy a special farewell dinner celebrating your amazing trip.
-*   **Dinner:** **AnnaLena (Kitsilano)**. *Why:* If you want to splurge for a memorable fine dining experience near the beach area (reservations essential). Alternatively, **Dockside Restaurant (Granville Island)** offers great views and food.
-*   **Anticipated Weather:** Sunny and warm, enjoying the last full day of summer weather.
-
----
-
-**Day 14: Friday, August 2 - Departure**
-
-*   **Morning:** Enjoy a final Vancouver breakfast or coffee. Depending on your flight time, you might have time for a short walk.
-*   **Late Morning/Afternoon:** Check out from your accommodation.
-*   **Afternoon:** Travel back to Vancouver International Airport (YVR) via Canada Line SkyTrain or taxi/rideshare. Allow ample time for check-in and security.
-*   **Afternoon/Evening:** Depart Vancouver (YVR) for Montreal (YUL).
-
----
-
-Enjoy your incredible beach-focused trip to Vancouver! The combination of stunning natural beauty and vibrant city life, especially centered around its fantastic beaches in the peak of summer, is truly unmatched. Have the BEST trip!
-```
+Absolutely! As your dedicated Amazing Travel Concierge with decades of experience, I've crafted a comprehensive 10-day itinerary for your museum-focused journey to Rome from August 1st to 10th, traveling from Montreal. This plan blends the city's incredible cultural treasures with practical advice for navigating Rome during the beautiful, albeit hot, month of August, ensuring you have THE BEST TRIP EVER!
+
+Here is your detailed travel plan:
+
+# Rome: A Museum Lover's Summer Sojourn (August 1st - August 10th)
+
+**Traveler:** Museum Enthusiast from Montreal
+**Trip Dates:** August 1st - August 10th
+**Focus:** Immersing in Rome's unparalleled museums and historical sites, while managing the summer heat and enjoying the city's August atmosphere.
+
+## Trip Overview
+
+Rome in early August is a vibrant city basking in intense summer sunshine. While hot, this period offers a unique atmosphere with locals sometimes heading for the coast (leading up to Ferragosto), potentially making some non-touristy areas a little quieter, but with major attractions and tourist infrastructure fully operational. Your interest in museums is perfectly suited to this time, as they provide fantastic, air-conditioned escapes from the midday heat. We will balance deep dives into art and history with explorations of iconic landmarks and evenings enjoying Rome's summer nights.
+
+## Anticipated Weather (August 1st - August 10th)
+
+Expect consistent, hot, and sunny weather throughout your trip.
+*   **Daily Highs:** Typically ranging from 30°C to 34°C (86°F to 93°F).
+*   **Daily Lows:** Around 18°C to 22°C (64°F to 72°F), offering pleasant evenings.
+*   **Conditions:** Mostly clear skies with abundant sunshine. Humidity can sometimes make it feel hotter. Rainfall is unlikely but not impossible (usually brief thunderstorms if they occur).
+
+**Key Weather Consideration:** The sun is strongest between 11 AM and 4 PM. Plan your activities accordingly, prioritizing indoor museums or shaded areas during these hours.
+
+## Recommended Clothing & Packing Suggestions
+
+Packing light, breathable clothing is paramount for an August trip to Rome.
+
+*   **Clothing:**
+    *   Lightweight cottons, linens, or moisture-wicking fabrics.
+    *   Shorts, skirts, light trousers.
+    *   Lightweight tops, t-shirts, blouses.
+    *   A light scarf or shawl: Essential for visiting churches (including St. Peter's Basilica) to cover shoulders and knees.
+    *   Swimsuit: If your accommodation has a pool, or you plan a day trip to the coast.
+    *   A slightly nicer outfit or two for dinners out.
+*   **Footwear:**
+    *   **Crucial:** Extremely comfortable walking shoes (sneakers, sturdy sandals with good support). You will be walking *a lot* on cobblestones.
+    *   Dressier sandals or shoes for evenings.
+*   **Accessories:**
+    *   Wide-brimmed hat for sun protection.
+    *   Sunglasses.
+    *   Sunscreen (high SPF).
+    *   Reusable water bottle (to refill at Rome's public fountains).
+    *   Small backpack or cross-body bag (secure against pickpocketing).
+    *   Adapter for European plugs (Type F or L).
+    *   Portable phone charger (for navigating and photos).
+    *   Basic first-aid kit (including blister plasters!).
+*   **For Museums/Churches:**
+    *   Ensure clothing meets dress codes (shoulders and knees covered).
+    *   Maybe a small notebook for jotting down impressions.
+
+## Budget Breakdown (Estimates in CAD)
+
+This is a general estimate and can vary significantly based on your choices (luxury vs. budget, amount of shopping, etc.).
+
+*   **Flights (Montreal to Rome, Round Trip):** $880 - $1100+ (Based on provided range - booking early is key).
+*   **Accommodation (10 nights):** $800 - $2500+ (€80 - €250+ per night range).
+    *   *Suggested Mid-Range Hotel Examples:*
+        *   **Hotel Artemide Spa:** Located near Termini/Repubblica. Good transport links, often highly rated, sometimes features a spa. *Reason:* Excellent access to public transport for reaching various museum clusters and the airport train.
+        *   **Hotel Scent of Rome:** Near Piazza Navona/Pantheon. Central location for walking to many sites in the historical center. *Reason:* Allows easy access to the ancient heart of Rome and many historical sites on foot.
+        *   **Residenza Paolo VI:** In the Prati neighborhood, very close to the Vatican. *Reason:* Ideal for early access to the Vatican Museums and exploring the Vatican area.
+*   **Food & Drink (10 days):** $500 - $1000+ (Approx. $50-$100+ per day).
+    *   *Breakdown:* Coffee/Pastry (€5-€10), Lunch (€10-€20), Dinner (€20-€40+), Gelato/Snacks (€5-€10). Eating pizza al taglio (by the slice) or panini for lunch saves money. Supermarkets offer affordable options.
+*   **Local Transportation (10 days):** $30 - $60 (€1.50 per single ticket, €24 for a weekly pass). Rome is walkable, but you'll use the metro/bus.
+*   **Museum Entries & Activities:** $250 - $400+ (Estimating ~€15-€25 per major museum, planning for 8-10 museum visits).
+    *   *Examples:* Vatican Museums (€20+), Borghese Gallery (€17+), Capitoline Museums (€15+), National Museum sites (€12+ for multiple sites), Palazzo Doria Pamphilj (€12+). Prices can vary, check official websites. Factor in booking fees (€1-€5).
+*   **Miscellaneous & Buffer:** $200 - $500 (Souvenirs, unforeseen expenses, extra gelato!).
+
+**Estimated Total Range:** **$2660 - $5560+ CAD per person (excluding buffer)**. Aiming for a comfortable trip focusing on museums, budget around $4000-$5000 CAD per person.
+
+**Tips to Save:**
+*   Walk whenever possible instead of taking taxis.
+*   Eat lunch at local *forni* (bakeries) or *tavola calda* (hot table) for affordable meals.
+*   Refill water bottles from public fountains.
+*   Consider purchasing a Roma Pass or Omnia Card *if* the included attractions and transport align perfectly with your plans and the math works out.
+*   Look for apartments with kitchenettes to prepare some meals.
+
+## 10-Day Rome Itinerary: Museum Focus
+
+**Day 1: Arrival in Rome & Ancient Beginnings**
+
+*   **Morning/Afternoon:** Arrive at Leonardo da Vinci–Fiumicino Airport (FCO) from Montreal. Navigate customs and immigration. Take the Leonardo Express train (€14) to Termini Station or a taxi/private transfer to your accommodation.
+*   **Afternoon:** Check into your hotel. Leave luggage. Take some time to relax and freshen up.
+*   **Late Afternoon:** Take a leisurely walk in the area around your hotel to get your bearings. If near the historical center, stroll towards the Pantheon or Piazza Navona. If near Termini, explore the Piazza della Repubblica area.
+*   **Evening:** **Welcome Dinner.**
+    *   *Restaurant Suggestion:* **Trattoria Vecchia Roma** (near Termini). *Reason:* A classic, popular spot known for traditional Roman dishes like Carbonara and Amatriciana served in the pan. Requires reservation.
+    *   *Alternative:* Find a local *trattoria* away from major tourist hubs for a more authentic feel.
+*   **Activity:** Evening stroll to see a lit-up monument like the Colosseum or Trevi Fountain (expect crowds even at night, but cooler).
+
+**Day 2: Vatican City - A Day of Masterpieces**
+
+*   **Morning (Go Early!):** **Vatican Museums & Sistine Chapel.**
+    *   *Why:* Home to one of the world's most important art collections and Michelangelo's breathtaking Sistine Chapel ceiling.
+    *   **Book Tickets ONLINE and MONTHS in advance** for a specific time slot to skip hours of queuing. Aim for the earliest possible entry (9 AM or earlier with a tour) to experience the Sistine Chapel before it becomes overwhelmingly crowded.
+    *   *Plan:* Allocate 3-4 hours minimum. Follow the recommended path ending at the Sistine Chapel.
+*   **Late Morning/Lunch:** Exit the museums. Grab a quick bite at a cafe near the Vatican or *pizza al taglio* (pizza by the slice).
+*   **Afternoon:** **St. Peter's Basilica.**
+    *   *Why:* A monumental Renaissance church, the heart of the Catholic world. See Michelangelo's Pietà and Bernini's baldacchino.
+    *   *Note:* Free entry, but expect a security line (often moves faster than the museum line). **Remember dress code (shoulders & knees covered!).**
+    *   *Optional:* Climb the dome for panoramic views of Rome and Vatican City (requires ticket).
+*   **Late Afternoon:** Explore St. Peter's Square, perhaps send a postcard from the Vatican Post Office. Walk along Via della Conciliazione towards Castel Sant'Angelo.
+*   **Evening:** Dinner in the Prati neighborhood.
+    *   *Restaurant Suggestion:* **Pizzarium Bonci.** *Reason:* While simple, it's considered one of the best pizza al taglio spots in Rome – a culinary experience worth trying. Great for a casual, delicious meal. Or **Il Sorpasso** for a more trendy vibe.
+
+**Day 3: Ancient Rome's Power & Art**
+
+*   **Morning (Early! Aim for opening):** **Colosseum, Roman Forum, and Palatine Hill.**
+    *   *Why:* Essential sites for understanding the scale and history of the Roman Empire. Palatine Hill is said to be where Rome was founded.
+    *   **Book tickets online in advance** to avoid long lines. The ticket is typically valid for entry to all three sites.
+    *   *Plan:* Start with the Colosseum, then walk through the Forum and up to the Palatine Hill. Takes 3-4 hours.
+    *   *Heat Strategy:* Go right at opening (usually 8:30 or 9:00 AM) before the heat peaks and crowds swell. There is little shade in the Forum/Palatine.
+*   **Lunch:** Find a place to eat near the Roman Forum/Capitoline Hill area.
+*   **Afternoon:** **Capitoline Museums (Musei Capitolini).**
+    *   *Why:* Located on Michelangelo's Campidoglio, these are the world's oldest public museums, housing incredible Roman statues and artifacts. The view from the Tabularium section over the Forum is iconic.
+    *   *Plan:* Easily spend 2-3 hours here. It's a perfect afternoon activity as it's indoors and air-conditioned.
+*   **Late Afternoon:** Enjoy the views from Capitoline Hill. Walk down towards Piazza Venezia.
+*   **Evening:** Dinner in the Monti neighborhood (walking distance from Piazza Venezia).
+    *   *Restaurant Suggestion:* **Ai Tre Scalini.** *Reason:* A very popular, lively spot for aperitivo and simple, delicious food in the charming Monti neighborhood. Gets crowded, arrive early or be prepared to wait.
+
+**Day 4: Unearthing Roman Life & Art**
+
+*   **Morning:** **National Museum of Rome - Palazzo Massimo alle Terme.**
+    *   *Why:* Home to breathtaking Roman frescoes (from Livia's Villa!), mosaics, stunning statues (like the Boxer at Rest, the Discus Thrower), and ancient Roman coinage. It's one of the best collections of classical art anywhere.
+    *   *Plan:* Allocate 2-3 hours.
+*   **Lunch:** Lunch break near Termini Station or the Baths of Diocletian.
+*   **Afternoon:** **National Museum of Rome - Baths of Diocletian.**
+    *   *Why:* Explore the vast scale of one of the largest Roman bath complexes. Part of it now houses a section of the National Museum focusing on the history of the baths and epigraphy. Includes a beautiful cloister designed by Michelangelo.
+    *   *Plan:* 1-2 hours. Offers a mix of indoor (museum sections) and outdoor (ruins, cloister) exploration.
+*   **Late Afternoon:** Walk towards Piazza della Repubblica, see the Fountain of the Naiads.
+*   **Evening:** **Explore Lungo il Tevere.**
+    *   *Why:* If active, this summer festival along the Tiber River offers food stalls, bars, shopping, and entertainment. A lovely way to spend a warm Roman evening by the river. *Check specific dates/locations for 2024.*
+    *   *Dinner Suggestion:* Eat at one of the temporary restaurants or food stalls set up along the river as part of the festival.
+
+**Day 5: Baroque Masterpieces & Gardens**
+
+*   **Morning (Strictly Timed!):** **Galleria Borghese.**
+    *   *Why:* A magnificent collection housed in a former cardinal's villa, featuring Bernini's most dynamic sculptures (Apollo and Daphne, The Rape of Proserpina) and paintings by Caravaggio, Raphael, and Titian.
+    *   **Book Tickets ONLINE and MONTHS in advance.** Entry is limited to a 2-hour time slot. Arrive 30 minutes early.
+    *   *Plan:* Enjoy the intense 2 hours focused on the art.
+*   **Late Morning/Lunch:** Exit the museum. Have lunch at the cafe within the villa complex or find a spot near the entrance to the Borghese Gardens.
+*   **Afternoon:** **Borghese Gardens (Villa Borghese).**
+    *   *Why:* A large, beautiful public park. Relax after the intense museum visit, rent a rowboat on the lake, or enjoy views from the Pincio Terrace overlooking Piazza del Popolo.
+    *   *Plan:* Spend a relaxed 1-2 hours enjoying the green space.
+*   **Late Afternoon:** Option 1: Walk down to Piazza del Popolo. Option 2: Head to **Galleria Nazionale d'Arte Antica at Palazzo Barberini.**
+    *   *Why (Palazzo Barberini):* A stunning Baroque palace housing works by Raphael ("La Fornarina"), Caravaggio ("Judith Beheading Holofernes"), and other masters. *Reason:* A substantial museum in a beautiful setting, offering more incredible art, perfect for an afternoon escape.
+    *   *Plan (Palazzo Barberini):* 2-3 hours.
+*   **Evening:** Dinner near Via Veneto or in the Ludovisi area if you visited Palazzo Barberini, or back near your hotel.
+
+**Day 6: Hidden Museum Gems & Roman Icons**
+
+*   **Morning:** **National Museum of Rome - Palazzo Altemps.**
+    *   *Why:* Located in a beautiful Renaissance palace, this museum showcases ancient Roman sculptures collected by noble families, displayed in situ within the palace's rooms. Offers a different, more intimate museum experience.
+    *   *Plan:* 1.5 - 2 hours.
+*   **Late Morning:** Walk or take a short bus ride to **National Museum of Rome - Crypta Balbi.**
+    *   *Why:* An archaeological site and museum layered over centuries, from Roman times through the medieval period. Provides a fascinating look at urban history.
+    *   *Plan:* 1.5 hours. Mostly indoors.
+*   **Lunch:** Grab lunch in the Jewish Quarter or near Campo de' Fiori.
+*   **Afternoon:** Explore the Heart of Rome.
+    *   **Pantheon:** Visit this incredible feat of Roman engineering (free entry, potentially a line).
+    *   **Piazza Navona:** Admire Bernini's Fountain of Four Rivers and the surrounding Baroque architecture.
+*   **Late Afternoon/Evening (August 5th Specific):** **Festa della Madonna della Neve at Basilica di Santa Maria Maggiore.**
+    *   *Why:* A unique religious event commemorating a miraculous snowfall in August. A special mass is held, and white petals are released from the dome, re-enacting the miracle.
+    *   *Plan:* Check the schedule for the petal ceremony (usually late afternoon/early evening). Santa Maria Maggiore is a beautiful church to visit regardless. *Reason:* Experience a specific, culturally significant Roman event tied to the date.
+*   **Dinner:** Dinner near Santa Maria Maggiore or back in the Monti area.
+
+**Day 7: Private Collections & Industrial Art**
+
+*   **Morning:** **Palazzo Doria Pamphilj.**
+    *   *Why:* A stunning, privately owned palace housing an extensive and well-displayed art collection amassed by the Doria Pamphilj family. It offers a glimpse into aristocratic life and art patronage. The audio guide is excellent.
+    *   *Plan:* 2 hours. *Reason:* A less crowded, intimate alternative to larger museums, offering high-quality art in a gorgeous setting.
+*   **Lunch:** Lunch near Via del Corso or in the Testaccio neighborhood if heading there next.
+*   **Afternoon:** **Centrale Montemartini.**
+    *   *Why:* Located in the Testaccio neighborhood, this museum uniquely displays ancient Roman statues within a former thermoelectric power plant. The juxtaposition is visually striking.
+    *   *Plan:* 1.5 - 2 hours. Requires taking a bus or taxi from the historical center. *Reason:* Offers a truly different museum experience away from the main tourist circuit.
+*   **Late Afternoon:** Explore the Testaccio neighborhood, known for its authentic Roman food scene. Maybe visit the Testaccio Market (check if open in the late afternoon, likely morning is better).
+*   **Evening:** **Dinner in Trastevere.**
+    *   *Why:* This charming neighborhood across the Tiber is known for its atmospheric cobblestone streets and abundance of traditional Roman restaurants.
+    *   *Restaurant Suggestion:* **Da Enzo al 29.** *Reason:* A very popular, small trattoria known for authentic, delicious Roman cuisine. Expect a wait or try to book far ahead. Or explore the many other options in Trastevere.
+
+**Day 8: Modern Art or Etruscan Mysteries**
+
+*   **Morning (Choose Your Interest):**
+    *   **Option A (Contemporary):** **MAXXI - Museo nazionale delle arti del XXI secolo.**
+        *   *Why:* Italy's national museum for contemporary art and architecture, housed in a striking building by Zaha Hadid. *Reason:* Offers a contrast to the ancient and classical art seen throughout the week. Requires a bus or tram ride north of the historical center.
+        *   *Plan:* 2-3 hours.
+    *   **Option B (Ancient History/Archaeology):** **National Etruscan Museum at Villa Giulia.**
+        *   *Why:* Located in a beautiful Renaissance villa near the Borghese Gardens, this museum houses the most important collection of Etruscan art and artifacts. *Reason:* Provides insight into the civilization that preceded the Romans.
+        *   *Plan:* 2-3 hours. Walkable from the north end of Borghese Gardens or accessible by tram/bus.
+*   **Lunch:** Near your chosen morning museum (e.g., Parioli neighborhood for MAXXI, Flaminio/near Villa Giulia for Option B).
+*   **Afternoon:** Relaxation, Shopping, or Revisit.
+    *   *Activity:* Enjoy some downtime. Explore shopping streets like Via del Corso or the areas around the Spanish Steps (early evening is better when it's cooler). Or revisit a favorite museum briefly if time allows and it's near.
+*   **Evening:** **Outdoor Culture or Views.**
+    *   *Activity:* Check local listings for outdoor cinema ('cinema all'aperto'). Enjoy an *aperitivo* in a lively piazza like Piazza Farnese or Campo de' Fiori. Or walk up to Gianicolo Hill for stunning panoramic views of Rome at sunset.
+    *   *Dinner:* Explore a neighborhood you haven't spent much time in for dinner, or revisit a favorite area.
+
+**Day 9: Panoramic Views & Last Treasures**
+
+*   **Morning:** **Views and Serenity.**
+    *   *Activity:* Head to the Aventine Hill. Visit the Orange Garden (Giardino degli Aranci) for beautiful views. Find the famous **Keyhole View** through the gate of the Priory of the Knights of Malta for a perfectly framed view of St. Peter's Dome. *Reason:* A lovely, relatively peaceful morning activity with great views.
+*   **Late Morning:** Option: **Galleria Spada.**
+    *   *Why:* A smaller museum in a palace known for Borromini's forced-perspective courtyard (perspective gallery). Houses a collection of 16th and 17th-century paintings. *Reason:* Quick, unique museum experience in the historical center.
+    *   *Plan:* 1 hour.
+*   **Lunch:** Lunch in the area near Campo de' Fiori or Trastevere (if walking over the bridge).
+*   **Afternoon:** **Baths of Caracalla (Terme di Caracalla).**
+    *   *Why:* Impressive, well-preserved ruins of massive ancient public baths. Provides a sense of the grandeur of Roman leisure life. Often less crowded than the Forum/Colosseum complex.
+    *   *Plan:* 1.5 - 2 hours. Best visited slightly later in the afternoon as the sun lowers.
+*   **Late Afternoon:** Enjoy a final leisurely *gelato*.
+    *   *Gelateria Suggestion:* **Fassi - Palazzo del Freddo** (near Termini, historical institution) or **Gelateria come il latte** (near Repubblica, creamy and delicious) or **Giolitti** (near Pantheon, classic and popular). *Reason:* Rome is famous for gelato, enjoy the best!
+*   **Evening:** **Farewell Dinner.**
+    *   *Restaurant Suggestion:* Choose a restaurant in a neighborhood you particularly enjoyed or try a highly-rated spot you didn't get to. Perhaps **Armando al Pantheon** (book FAR in advance, traditional) or **Roscioli Salumeria con Cucina** (deli, restaurant, wine bar - excellent food, book ahead). *Reason:* Treat yourself to a memorable final Roman meal.
+
+**Day 10: Departure**
+
+*   **Morning:** Depending on your flight schedule:
+    *   Enjoy a final Roman coffee and cornetto at a local bar.
+    *   Do some last-minute souvenir shopping.
+    *   Revisit a favorite nearby spot for a quick photo.
+*   **Midday:** Check out from your accommodation.
+*   **Afternoon:** Head to Fiumicino Airport (FCO) via Leonardo Express, taxi, or private transfer, allowing ample time before your flight back to Montreal.
+
+This itinerary is designed to maximize your museum interests while ensuring you experience the iconic sights and vibrant atmosphere of Rome in August, managing the heat effectively with smart timing. Remember to stay hydrated, book popular sites in advance, and allow some flexibility for spontaneous discoveries.
+
+*Buon Viaggio!* Enjoy your incredible journey through the Eternal City!

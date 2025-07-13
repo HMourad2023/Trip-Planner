@@ -2,17 +2,32 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import os
 from dotenv import load_dotenv
+from fastapi.middleware.cors import CORSMiddleware # Import CORS
+from src.trip_planner.crew import TripPlannerCrew
 
 # Load environment variables from .env file
 load_dotenv()
-
-from src.trip_planner.crew import TripPlannerCrew
 
 app = FastAPI(
     title="AI Trip Planner API",
     description="API for generating trip plans using CrewAI.",
     version="1.0.0",
 )
+
+# --- CORS Configuration ---
+origins = [
+    "http://localhost:3000",  # Allow your React development server
+    # "https://your-production-react-app.com", # Add your React production URL here when deploying
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],    # Allows all HTTP methods (GET, POST, PUT, DELETE, etc.)
+    allow_headers=["*"],    # Allows all headers
+)
+# ------------------------
 
 class TripRequest(BaseModel):
     origin: str
@@ -37,8 +52,6 @@ async def plan_trip(request: TripRequest):
         report_path = os.path.join(output_dir, "report.md")
 
         # Run the CrewAI process
-        # Note: CrewAI's kickoff method might write directly to a file
-        # or return content. Assuming it writes to output/report.md as per your setup.
         TripPlannerCrew().crew().kickoff(inputs=inputs)
 
         if os.path.exists(report_path):
@@ -49,7 +62,6 @@ async def plan_trip(request: TripRequest):
             raise HTTPException(status_code=500, detail="Trip plan report not found after generation.")
 
     except Exception as e:
-        # Log the error for debugging purposes
         print(f"Error during trip planning: {e}")
         raise HTTPException(status_code=500, detail=f"An error occurred during trip planning: {e}")
 
