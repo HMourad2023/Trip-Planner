@@ -1,14 +1,14 @@
-FROM python:3
+# Utiliser Python 3.11 (compatible avec embedchain 0.1.128)
+FROM python:3.11
 
 WORKDIR /app
 
 COPY requirements.txt ./
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
 COPY . .
-# Exposer le port de Streamlit
-# Exposer le port sur lequel l'API s'exécutera (par exemple, 8000)
+
 EXPOSE 8000
 
-# Commande pour démarrer l'application (en supposant que vous utilisez FastAPI avec uvicorn)
 CMD ["uvicorn", "api_app:app", "--host", "0.0.0.0", "--port", "8000"]
