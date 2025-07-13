@@ -1,211 +1,258 @@
-Okay, here is your complete 10-day Vancouver itinerary for August 1st to August 10th, tailored to your interests in parks and beaches, with detailed daily plans, actual suggestions for places to stay and eat, packing advice, and a budget breakdown. Get ready for an amazing West Coast adventure!
+```markdown
+# Your Amazing Beach-Focused Adventure: Vancouver Summer 2025
 
-# Vancouver: Your Ultimate Parks & Beaches Itinerary (August 1 - August 10, 2024)
+Welcome to Vancouver! Get ready for an incredible 14-day, 13-night escape focused on the city's stunning beaches during its peak summer season. From sun-drenched sands to vibrant city life, this itinerary is crafted for the beach lover, blending relaxation with exploration.
 
-Welcome to beautiful Vancouver! You've chosen the perfect time of year to explore this city's stunning natural beauty, focusing on its world-class parks and beaches. August offers ideal weather for outdoor activities, long daylight hours, and a vibrant city atmosphere. As your Amazing Travel Concierge, I've crafted this itinerary to maximize your enjoyment of the city's green spaces and coastline, incorporating local favourites and key events.
+**Trip Dates:** July 20, 2025 - August 2, 2025
+**Traveling From:** Montreal
+**Traveler Interests:** Beach
+**Duration:** 14 Days / 13 Nights
 
-## Anticipated Weather Conditions (August 1st - August 10th, 2024)
+Vancouver in late July/early August offers the best weather – expect warm, sunny, and dry days perfect for the beach. This period also coincides with exciting potential summer events like the Celebration of Light fireworks and Vancouver Pride festivities.
 
-Expect glorious summer weather throughout your trip!
-*   **Daytime Temperatures:** Likely ranging from **22°C to 26°C (72°F to 79°F)**. Some days might even feel warmer, especially away from the immediate coast, but coastal breezes often keep things pleasant.
-*   **Evening Temperatures:** Cooling down to **13°C to 16°C (55°F to 61°F)**. You'll definitely need a layer for the evenings.
-*   **Sunshine:** Predominant sunshine is expected. August is one of the driest months. While a brief shower is always possible in the Pacific Northwest, significant rain is unlikely.
-*   **Daylight:** Long daylight hours, with sunset after 8 PM for the first half of August, giving you ample time for activities.
+## Accommodation Suggestions
 
-Perfect conditions for beach days, park strolls, and outdoor adventures!
+Choosing the right base is key for a beach-focused trip. Here are a few options:
 
-## Recommended Clothing and Items to Pack
+1.  **Sandman Suites Vancouver on Davie** (Mid-Range)
+    *   *Why:* Excellent location near English Bay beach and Davie Village, offering spacious suites with kitchenettes – great for saving money on breakfasts or casual meals. Easy walk to downtown and transit hubs.
+2.  **The Burrard** (Mid-Range)
+    *   *Why:* Stylish, retro-modern hotel downtown, a pleasant walk or short transit ride to English Bay and Kitsilano. Offers a cool vibe and is centrally located for exploring various neighbourhoods.
+3.  **Airbnb/Vacation Rental in Kitsilano** (Various Budgets)
+    *   *Why:* Staying in Kitsilano puts you right near Kits Beach and gives you a local neighbourhood feel with plenty of cafes and shops on 4th Avenue. Offers more space and potentially kitchen facilities.
 
-Pack light layers suitable for warm days and cooler evenings, plus essentials for enjoying parks and beaches.
+*Recommendation:* For a beach focus and potential budget savings, Sandman Suites or an Airbnb in Kitsilano are excellent choices. Let's base the itinerary generally around being accessible to the English Bay/Kitsilano area.
+
+## Estimated Budget Breakdown (CAD)
+
+This is a high-level estimate for one person, assuming a mid-range travel style, focusing on a mix of casual and some nicer dining, and factoring in activities and transport.
+
+*   **Flights (Montreal-Vancouver Round Trip):** $200 - $400 (Based on context estimate; book in advance!)
+*   **Accommodation (13 nights):**
+    *   Mid-Range Hotel (e.g., Sandman Suites): $250 - $400/night * 13 nights = $3250 - $5200
+    *   *Budget Tip:* Hostels ($60-100/night) or sharing an Airbnb would significantly reduce this. Let's budget for the mid-range hotel.
+*   **Food & Drink (14 days):**
+    *   Mix of casual eats, picnics, and some restaurants: $80 - $150/day * 14 days = $1120 - $2100
+*   **Activities & Entrance Fees:**
+    *   Museums, Rentals (bike, kayak), etc.: $30 - $70/day average * 14 days = $420 - $980
+*   **Local Transportation (Compass Card/Transit/Occasional Ride Share):** $10 - $20/day * 14 days = $140 - $280
+*   **Buffer/Miscellaneous (Souvenirs, unexpected):** $300 - $500
+
+**Total Estimated Budget (CAD per person):**
+*   **Low End:** $200 (Flight) + $3250 (Hotel) + $1120 (Food) + $420 (Activities) + $140 (Transport) + $300 (Buffer) = **$5430**
+*   **High End:** $400 (Flight) + $5200 (Hotel) + $2100 (Food) + $980 (Activities) + $280 (Transport) + $500 (Buffer) = **$9460**
+
+*Note:* These are estimates. Booking accommodation/flights early, utilizing grocery stores for meals, focusing on free activities (beaches, parks, walking), and using public transit will help keep costs down.
+
+## Packing Suggestions
+
+Vancouver in late July/early August is generally warm and sunny, but layers are always smart for coastal evenings.
 
 **Clothing:**
-*   Light t-shirts, tank tops
-*   Shorts, skirts
-*   Lightweight pants or capris for evenings or cooler moments
-*   Swimsuits (pack a couple so one can dry)
-*   A light sweater, fleece, or jacket for evenings
-*   A windbreaker or light rain jacket (unlikely needed, but good insurance)
-*   Comfortable walking shoes or sneakers (essential for parks and city exploring)
-*   Sandals or flip-flops (for the beach)
-*   Maybe a slightly dressier outfit if you plan a nicer dinner
-*   Hat with a brim for sun protection
+*   Swimsuits (multiple, you'll use them!)
+*   Beach cover-ups/sarong
+*   Shorts, skirts, light trousers
+*   T-shirts, tank tops, short-sleeved shirts
+*   Light long-sleeved shirt or sun shirt (for sun protection)
+*   Sweatshirt, fleece, or light jacket (for cooler evenings)
+*   Rain jacket (low chance, but always possible on the West Coast!)
+*   Casual dresses or outfits for evenings
+*   Underwear and socks
+*   Pajamas
 
-**Beach/Park Essentials:**
-*   Beach towel
+**Footwear:**
+*   Comfortable walking shoes/sneakers (essential for exploring)
+*   Sandals or flip-flops (for the beach and casual wear)
+*   Water shoes (optional, for rocky beach areas if exploring beyond main beaches)
+
+**Beach Gear:**
+*   Beach towel or mat
 *   Sunscreen (high SPF)
+*   Sun hat
 *   Sunglasses
-*   Reusable water bottle (hydration is key!)
-*   Small backpack or tote bag for day trips
-*   Picnic blanket or small beach chair (optional)
-*   Insect repellent (might be useful near wooded areas in the evening)
+*   Beach bag
+*   Reusable water bottle
 
-**Other Items:**
-*   Phone and charger
-*   Camera and charger
+**Other Essentials:**
+*   Small backpack or day bag
+*   Camera/phone and chargers
 *   Portable power bank
-*   Adapter (if needed)
+*   Book or e-reader
+*   Toiletries (include after-sun lotion)
 *   Any personal medications
 *   Small first-aid kit (band-aids for blisters!)
-*   Book or e-reader for relaxing moments
+*   Insect repellent (especially for evenings near parks/water)
+*   Adapter (if traveling with electronics from outside North America)
+*   Copy of travel documents (passport, booking confirmations)
+*   Compass Card (can purchase upon arrival)
+*   Credit/Debit cards and some CAD cash
 
-**Optional but Recommended:**
-*   Binoculars (for wildlife spotting in parks, views)
-*   Small umbrella (just in case!)
-*   Water shoes (if exploring rocky beach areas)
+## Daily Itinerary: Vancouver Beach Bliss 2025
 
-## Accommodation Suggestions (Choose one based on budget/style)
-
-Here are a few options, ranging from budget-friendly to mid-range, in good locations for accessing parks and beaches via transit or walking. Prices listed are estimated *per night* in August; actual prices will vary greatly based on booking time and specific room type.
-
-1.  **Budget:** **Samesun Vancouver Hostel** (Downtown/Granville Street).
-    *   *Reason Chosen:* Excellent downtown location with easy access to transit lines heading towards Stanley Park, English Bay, and Kitsilano. Social atmosphere, good for meeting other travelers. Offers private rooms as well as dorms. Expect C$60-90 for a dorm, C$150-200 for a private room.
-2.  **Mid-Range:** **The Burrard** (Downtown).
-    *   *Reason Chosen:* Boutique hotel with a cool vibe and a central location. Walking distance to many downtown attractions and easy access to transit. Offers free bike rentals which is a huge plus for park/beach hopping. Expect C$200-300+ per night.
-3.  **Mid-Range/Slightly Higher:** **Holiday Inn Vancouver Downtown & Suites** (Downtown/Howe Street).
-    *   *Reason Chosen:* Reliable chain hotel offering comfortable rooms and amenities (often includes a pool). Very central location with excellent transit connections to get you anywhere you need to go for your parks and beach agenda. Expect C$250-350+ per night.
-
-*Booking.com, Expedia, or Airbnb are good platforms to compare current prices and availability for your dates.*
-
-## Restaurant Suggestions (A mix near planned activities)
-
-Vancouver has incredible food! Here are some suggestions near your planned activities, ranging from casual to slightly nicer:
-
-*   **Near English Bay/Stanley Park:**
-    *   **Raincity Grill** (Upscale, focus on local/seasonal, great patio and views of English Bay) - *Reason Chosen: Excellent West Coast fine dining experience, perfect for a sunset dinner.*
-    *   **Kingyo Izakaya** (Japanese Tapas, lively atmosphere, need reservations) - *Reason Chosen: Popular, delicious, and fun Japanese pub experience nearby.*
-    *   **Bevy's Beer Garden** (Casual pub fare, good drinks selection) - *Reason Chosen: Relaxed spot for a casual meal or drinks after a day in the park/beach.*
-*   **Near Kitsilano Beach/Granville Island:**
-    *   **AnnaLena** (Modern Canadian, tasting menu focus, reservations essential and tough to get) - *Reason Chosen: Highly acclaimed restaurant for a memorable upscale meal.*
-    *   **Local Public Eatery - Kitsilano** (Casual pub, great patio, lively Kits vibe) - *Reason Chosen: Right by Kits Beach, perfect for a post-beach burger and beer.*
-    *   **Granville Island Market Food Stalls** (Various options: soup, sandwiches, seafood, baked goods, international) - *Reason Chosen: Essential Vancouver experience, huge variety for a casual and delicious market lunch.*
-*   **Near Queen Elizabeth Park:**
-    *   **Seasons in the Park** (Located *within* Queen Elizabeth Park, offers fine dining with stunning city views) - *Reason Chosen: Unbeatable location and view for a special meal or celebratory drink.*
-    *   **Grab a picnic!** Pick up supplies from a grocery store (like Safeway or Whole Foods nearby) and enjoy eating *in* the park. - *Reason Chosen: Budget-friendly and perfectly fits the park vibe.*
-*   **Near Downtown/False Creek:**
-    *   **Miku Vancouver** (Aburi Sushi, waterfront views, upscale) - *Reason Chosen: Famous for its unique flame-seared sushi, beautiful location.*
-    *   **Tap & Barrel - Olympic Village** (Pub fare, huge patio, craft beer selection, great False Creek views) - *Reason Chosen: Lively spot right on the False Creek Seawall, perfect after exploring the area.*
-*   **Coffee & Casual Bites:**
-    *   **JJ Bean Coffee Roasters** (Multiple locations) - *Reason Chosen: Popular local coffee chain with good coffee and pastries.*
-    *   **Breka Bakery & Cafe** (Multiple locations, open 24/7) - *Reason Chosen: Reliable spot for coffee, sandwiches, cakes, and pastries any time.*
-
-## Detailed Budget Breakdown (Estimate per person for 10 Days)
-
-This is an estimated budget range, excluding shopping and personal spending money. It assumes a mix of cooking/casual eats and a few restaurant visits, primarily using public transit and bike rentals.
-
-*   **Flights (Montreal - Vancouver Round Trip):** C$300 - C$500 (Based on typical mid-range fares for the period)
-*   **Accommodation (10 nights):**
-    *   Hostel (Dorm): C$600 - C$900 (C$60-90/night)
-    *   Mid-Range Hotel/Private Room: C$1500 - C$3500 (C$150-350/night)
-*   **Food (10 days):** C$600 - C$900 (Mix of groceries, casual cafes, some restaurants - ~C$60-90/day)
-*   **Transportation (10 days):**
-    *   Compass Card (Stored Value/Day Passes): C$100 - C$150
-    *   Bike Rentals (e.g., 2 full days): C$80 - C$120 (C$40-60/day)
-    *   Occasional Taxi/Rideshare/Aquabus: C$50 - C$100
-    *   **Total Transport:** C$230 - C$370
-*   **Activities & Entertainment (10 days):**
-    *   Bloedel Conservatory: C$8
-    *   VanDusen Garden: C$15 (if visiting)
-    *   Kayak/Paddleboard Rental (e.g., 2 hours): C$60 - C$100
-    *   Bard on the Beach/TUTS (Optional): C$40 - C$80+ per show
-    *   Vancouver Aquarium (Optional): C$45
-    *   Museum Entry (Optional): C$15 - C$25 per museum
-    *   Misc. (Ferry to Granville Island, etc.): C$20 - C$40
-    *   **Total Activities:** C$100 - C$400+ (Highly variable based on paid activities)
-*   **Miscellaneous Buffer:** C$100 - C$200
-
-**Total Estimated Trip Cost (per person, excluding shopping):**
-
-*   **Budget (Hostel):** C$1930 - C$2570
-*   **Mid-Range (Hotel):** C$3030 - C$5370
-
-*Note: These are estimates. Prices can fluctuate. Booking accommodation and flights early is recommended for better rates in August.*
-
-## Your Amazing 10-Day Vancouver Parks & Beaches Itinerary
-
-Here is your day-by-day plan, designed for maximum enjoyment of Vancouver's natural beauty:
+**Anticipated Weather Note:** The forecast for this period is generally warm, sunny, and dry with average highs of 21-26°C and lows around 13°C. Daily entries will reflect this, assuming pleasant summer conditions unless otherwise noted. Always check a specific weather app closer to the date for the most accurate forecast.
 
 ---
 
-**Day 1: Thursday, August 1st - Arrival & English Bay Charm**
+**Day 1: Saturday, July 20 - Arrival & English Bay Sunset**
 
-*   **Morning/Afternoon:** Arrive at Vancouver International Airport (YVR). Take the Canada Line SkyTrain (~25 mins, ~C$5.60) directly to your accommodation location (e.g., City Centre or Waterfront station for downtown hotels). Check in and leave your luggage.
-*   **Late Afternoon:** Head towards the West End. Walk down Denman Street, grab a coffee or snack at a local cafe like **JJ Bean**.
-*   **Evening:** Arrive at **English Bay Beach**. Relax on the sand, people-watch the vibrant scene. Stroll along the Seawall south towards Sunset Beach and the Inukshuk landmark.
-*   **Dinner:** Enjoy dinner with a view near English Bay. **Raincity Grill** offers a lovely patio if you want something nicer, or find a more casual spot along Denman Street like **Bevy's Beer Garden**.
-*   **Why Chosen:** Ease of arrival and settling in, followed by immediate immersion in a classic, accessible beach vibe to kick off the trip. English Bay is lively and perfect for a first evening sunset.
-
-**Day 2: Friday, August 2nd - Stanley Park Exploration**
-
-*   **Morning:** Rent bikes near the Stanley Park entrance (e.g., Spokes Bicycle Rentals on Denman St). Cycle the famous **Stanley Park Seawall**. Enjoy views of the ocean, mountains, and city. Stop at the **Totem Poles at Brockton Point** for photos and history.
-*   **Lunch:** Grab a casual lunch at a concession stand in the park (e.g., Prospect Point Cafe or the concessions near Second Beach) or pack a picnic to enjoy by the water.
-*   **Afternoon:** Explore the park's interior. Walk some of the rainforest trails, visit Beaver Lake, or relax at **Third Beach** (more secluded and natural than Second Beach).
-*   **Evening:** Return your bikes. Consider having dinner in the West End again, trying a different restaurant like **Kingyo Izakaya** for Japanese tapas.
-*   **Why Chosen:** Stanley Park is the crown jewel. Biking the seawall is an iconic and essential Vancouver experience for park lovers, covering a lot of ground while taking in amazing scenery. Exploring the interior offers a different natural experience.
-
-**Day 3: Saturday, August 3rd - Kitsilano Beach & Granville Island Buzz**
-
-*   **Morning:** Head to **Kitsilano Beach** (take a bus like the 2 or 7 from downtown). This is one of Vancouver's most popular and energetic beaches. Enjoy swimming in the ocean or the massive saltwater Kits Pool. Play beach volleyball or just relax on the sand.
-*   **Lunch:** Walk or take a short bus ride (~10 mins) or an Aquabus ferry (~C$4-6) across False Creek to **Granville Island Market**. Explore the market and grab lunch from one of the many amazing food stalls (e.g., seafood chowder, international cuisine, baked goods).
-*   **Afternoon:** Explore the shops and studios on Granville Island. Visit **Hadden Park** nearby for a peaceful retreat with views of False Creek and the city skyline – a nice contrast to the busy market.
-*   **Evening:** Head back to Kitsilano. Have dinner at a lively spot like **Local Public Eatery** right near the beach or explore other restaurants along West 4th Avenue or Broadway.
-*   **Why Chosen:** Kits Beach offers a different beach vibe than English Bay – younger, sportier, and the pool is a unique feature. Granville Island is a must-do cultural and food destination conveniently located nearby, offering a different kind of exploration.
-
-**Day 4: Sunday, August 4th - Pride Parade & Sunset Beach Festival**
-
-*   **Morning:** This is the day of the **Vancouver Pride Parade**! Decide if you want to join the festive crowds. Find a spot along the parade route (often starts near Robson St and Thurlow St, proceeds down Denman St and Beach Ave to Sunset Beach). Arrive early to get a good viewing spot (by 10 AM at the latest for an 11 AM start). Embrace the colourful, joyful atmosphere!
-*   **Lunch:** Grab food from one of the many food trucks or vendors near the parade route or the festival area.
-*   **Afternoon:** The parade culminates near **Sunset Beach**, where the **Sunset Beach Festival** takes place. Enjoy the performances, vendors, and celebratory vibe.
-*   **Evening:** After the festival, the West End and downtown will still be lively. Have dinner at a restaurant in the area. *Alternatively (if avoiding crowds):* Head to a much quieter park like **Queen Elizabeth Park** or **Pacific Spirit Regional Park** for a peaceful escape from the downtown festivities.
-*   **Why Chosen:** You're here during Pride Week! Experiencing the parade and festival is a major Vancouver cultural event and a fantastic way to see the city's vibrant community. The alternative offers a complete escape to nature if preferred.
-
-**Day 5: Monday, August 5th - Jericho, Locarno & Pacific Spirit Trails**
-
-*   **Morning:** Take a bus (e.g., 4 or 7 from downtown) towards the western beaches. Spend the morning at **Jericho Beach** or the slightly quieter **Locarno Beach**. Jericho is popular for watersports; consider renting a kayak or paddleboard from the rental centre here. Enjoy the views back towards the city skyline and Stanley Park.
-*   **Lunch:** Pack a picnic to enjoy at the beach, or find a casual cafe along West Broadway or West 4th Ave on your way back from the beaches.
-*   **Afternoon:** Walk or take a short bus ride towards the University of British Columbia (UBC) area. Enter **Pacific Spirit Regional Park** from one of the eastern entrances (e.g., near 16th Ave or 29th Ave). Explore the network of forest trails. This park offers a completely different, immersive forest experience compared to Stanley Park's cultivated feel.
-*   **Evening:** Head back downtown or to your accommodation's area for dinner.
-*   **Why Chosen:** Jericho and Locarno offer more relaxed beach options further west, and Jericho provides watersport opportunities. Pacific Spirit Park complements the beach focus by offering extensive natural forest trails right on the city's edge, perfect for a cooler walk.
-
-**Day 6: Tuesday, August 6th - Queen Elizabeth Park & Outdoor Movie**
-
-*   **Morning:** Take transit (e.g., Canada Line to Oakridge-41st Ave, then bus 15) up to **Queen Elizabeth Park**. Explore the beautiful manicured gardens, walking paths, and public art. Visit the **Bloedel Conservatory** (entry fee ~C$8) inside the dome, housing tropical birds and plants.
-*   **Lunch:** Enjoy lunch with a stunning view at **Seasons in the Park** restaurant within the park, or grab a casual bite from a park concession, or picnic.
-*   **Afternoon:** Enjoy the panoramic views of the city, mountains, and ocean from the park's highest point. Afterwards, you could head back towards downtown for some souvenir shopping or relaxation.
-*   **Evening:** Head back to **Stanley Park's Second Beach** for the **EVO Summer Cinema Series**. This is a free outdoor movie screening on a giant inflatable screen. Arrive early (by 6-7 PM) to secure a good spot on the grass with your blanket or low chair. The movie starts at dusk (~9 PM). Check online closer to the date for the specific film showing tonight.
-*   **Why Chosen:** Queen Elizabeth Park offers the city's best viewpoints and beautiful gardens, adding a different type of park experience. The outdoor movie at Second Beach is a quintessential Vancouver summer activity combining parks and casual entertainment.
-
-**Day 7: Wednesday, August 7th - Spanish Banks & Coastal Beauty**
-
-*   **Morning:** Head to **Spanish Banks Beach** (requires bus, e.g., 4, or a car). This is the furthest west of the city's main beaches and features vast sandy flats at low tide, perfect for long walks, skimboarding, or just enjoying the wide-open space and views. It's generally less crowded than Kits or English Bay.
-*   **Lunch:** Pack a picnic to enjoy on the expansive beach. There are concessions, but they can be limited.
-*   **Afternoon (Option 1 - Coastal Explorer):** If you're feeling adventurous and the weather is clear, consider a trip further west to **Whytecliff Park** in West Vancouver. This requires a bus (250/253 from downtown, takes about 45-60 mins) or a car. Whytecliff offers rocky coastal exploration, tide pools, and stunning views of Howe Sound. You can walk out to Whytecliff Island at low tide.
-*   **Afternoon (Option 2 - Relaxed Beach):** Stay and relax longer at Spanish Banks or head back to a favourite from earlier in the week (Jericho or Locarno) for more beach time.
-*   **Evening:** Dinner in Vancouver. If you went to Whytecliff, you could grab dinner in West Vancouver (e.g., along Marine Drive in Dundarave or Ambleside) or head back downtown.
-*   **Why Chosen:** Spanish Banks provides a different, vast beach experience. Whytecliff Park offers dramatic coastal scenery and exploration outside the immediate city, showcasing more of the "West Coast" feel.
-
-**Day 8: Thursday, August 8th - North Shore Canyon Adventure**
-
-*   **Morning:** Take the **SeaBus** from Waterfront Station across Burrard Inlet to Lonsdale Quay in North Vancouver (~12 mins, use Compass Card). Enjoy the harbour views. From Lonsdale Quay, take a bus (e.g., 228 or 229) up to **Lynn Canyon Park**.
-*   **Afternoon:** Explore **Lynn Canyon Park**. Walk the trails through the lush forest, cross the famous **Lynn Canyon Suspension Bridge** (it's free!). Be cautious if exploring swimming spots – currents can be strong. The Ecology Centre is also worth a quick visit. Pack water and snacks as options within the park are limited.
-*   **Lunch:** Have a casual lunch at the cafe near the park entrance or pack your own.
-*   **Evening:** Take the bus and SeaBus back to Waterfront Station. Have dinner in the Gastown or Waterfront area. **Miku Vancouver** is nearby for acclaimed Aburi sushi with waterfront views (book ahead!).
-*   **Why Chosen:** Lynn Canyon offers a free, adventurous park experience on the North Shore with a dramatic suspension bridge and beautiful canyon scenery, accessible via transit. The SeaBus ride adds a fun transit experience.
-
-**Day 9: Friday, August 9th - Downtown Green & Urban Nature**
-
-*   **Morning:** Explore some of the smaller, but still lovely, downtown urban parks. Visit **Nelson Park** or **Emery Barnes Park** in the lively Davie Village/Yaletown area. Then, head towards **Chinatown** and visit the serene **Dr. Sun Yat-Sen Classical Chinese Garden** (entry fee ~C$15). This paid garden is a beautiful, peaceful escape from the city bustle.
-*   **Lunch:** Have lunch in Chinatown or Gastown.
-*   **Afternoon:** Walk the **False Creek Seawall** starting from the Georgia Street entrance near BC Place Stadium (or a bit further south). Follow the path west, enjoying views of False Creek, Granville Island, and the city skyline. Walk towards Olympic Village.
-*   **Evening:** Have dinner in the Yaletown or Olympic Village area along the False Creek Seawall. **Tap & Barrel - Olympic Village** is a great spot with a huge patio and views.
-*   **Why Chosen:** A mix of smaller urban parks, a unique cultural garden experience in Chinatown, and another section of the Seawall (False Creek) to see a different part of the city's waterfront and urban planning.
-
-**Day 10: Saturday, August 10th - Departure Prep & Final Moments**
-
-*   **Morning:** Depending on your flight time, enjoy a leisurely morning. Revisit a favourite nearby park or beach for a final walk or moment of relaxation (e.g., English Bay, Sunset Beach, or a stroll along the Seawall).
-*   **Lunch:** Enjoy a final Vancouver meal. Perhaps revisit a favourite restaurant or try one you missed on your list. Grab coffee and pastries at a local cafe like **Breka Bakery**.
-*   **Afternoon:** Head back to your accommodation to pick up luggage. Take the Canada Line SkyTrain from a nearby station directly to Vancouver International Airport (YVR) for your departure flight back to Montreal. Allow ample time for check-in and security.
-*   **Why Chosen:** Provides flexibility based on flight schedule, allows for one last experience of Vancouver's outdoor beauty, and ensures easy transit to the airport.
+*   **Morning/Afternoon:** Depart Montreal (YUL) for Vancouver (YVR). Enjoy the cross-country flight.
+*   **Afternoon:** Arrive at Vancouver International Airport (YVR). Take the Canada Line SkyTrain ($) or a taxi/rideshare ($$$) to your accommodation in the downtown/English Bay/Kitsilano area. Check in and leave your luggage.
+*   **Late Afternoon:** Head towards English Bay Beach. Take a leisurely walk along the seawall, feel the ocean breeze, and get acquainted with the area.
+*   **Evening:** Find a spot on English Bay beach to relax and witness a beautiful Pacific sunset.
+*   **Dinner:** **Cactus Club Cafe English Bay**. *Why:* Popular spot right on English Bay with a lively patio, great views, and a diverse menu. Casual and fun vibe.
+*   **Anticipated Weather:** Sunny, warm, pleasant evening breeze.
 
 ---
 
-This itinerary provides a solid framework focusing on your stated interests while allowing for flexibility. August in Vancouver is truly spectacular for enjoying the outdoors. Have an absolutely amazing trip exploring the parks, beaches, and vibrant culture of this beautiful city!
+**Day 2: Sunday, July 21 - Kitsilano Beach & 4th Ave Charm**
+
+*   **Morning:** Walk or take a short bus ride to Kitsilano Beach. Spend the morning relaxing on the sand, swimming in the ocean, or playing beach volleyball.
+*   **Lunch:** Casual eats along **4th Avenue in Kitsilano**. *Why:* Plenty of cafes, delis, and casual restaurants like Siegel's Bagels or Nook for a post-beach bite.
+*   **Afternoon:** Visit the **Kitsilano Pool** (large outdoor saltwater pool, check opening hours/schedule closer to the date). Enjoy swimming laps or just soaking up the sun with mountain views. Alternatively, explore the boutiques and shops on 4th Avenue.
+*   **Evening:** Relax back at your accommodation or explore Davie Village if staying nearby.
+*   **Dinner:** **Fable Kitchen (Kitsilano)**. *Why:* A popular farm-to-table restaurant in Kitsilano offering delicious, creative dishes in a cozy setting.
+*   **Anticipated Weather:** Sunny, warm, perfect beach day.
+
+---
+
+**Day 3: Monday, July 22 - Stanley Park Seawall & Exploration**
+
+*   **Morning:** Rent a bike near English Bay (numerous rental shops available). Cycle the famous **Stanley Park Seawall**. The full loop is about 10km (6 miles) and offers stunning coastal and forest views.
+*   **Lunch:** Pack a picnic to enjoy at a scenic spot in **Stanley Park**, like near Prospect Point (views) or along the seawall. Pick up supplies from a local grocery store.
+*   **Afternoon:** Explore more of Stanley Park. Visit the iconic **Totem Poles**, walk through the trails in the park's interior, or visit the **Vancouver Aquarium** (entrance fee applies).
+*   **Evening:** Cycle back to English Bay area. Relax and refresh.
+*   **Dinner:** **The Boathouse Restaurant (English Bay)**. *Why:* Offers seafood and other dishes with fantastic sunset views over English Bay.
+*   **Anticipated Weather:** Sunny and warm, ideal for cycling.
+
+---
+
+**Day 4: Tuesday, July 23 - Jericho Beach & Watersports**
+
+*   **Morning:** Travel to Jericho Beach (bus or bike via the seawall). This beach offers a more relaxed vibe than Kits or English Bay. Find a quiet spot on the sand or in the grassy areas.
+*   **Lunch:** Grab sandwiches or snacks from a cafe near **Jericho Beach** or pack another picnic.
+*   **Afternoon:** Try some watersports! Rent a kayak, paddleboard, or try windsurfing/sailing lessons from the rental facilities at Jericho Beach. Enjoy being on the water.
+*   *Potential Event:* Check dates for the **Vancouver Folk Music Festival** at Jericho Beach Park. If it aligns, consider spending the afternoon/evening listening to live music by the water (ticket required).
+*   **Evening:** Head back towards your accommodation area.
+*   **Dinner:** Explore the **Point Grey Village** area near Jericho Beach, or head back towards Kitsilano for more options. **Nook (Kitsilano)** offers great pizza and pasta in a casual setting.
+*   **Anticipated Weather:** Sunny and warm, great for watersports.
+
+---
+
+**Day 5: Wednesday, July 24 - Spanish Banks & UBC Culture**
+
+*   **Morning:** Travel to Spanish Banks Beach (bus from Kitsilano/Jericho or drive/rideshare). Check the tide times beforehand! Aim for low tide to experience the vast sand flats. Walk far out onto the sand.
+*   **Lunch:** Pack a picnic to enjoy at Spanish Banks. There are fire pits available (check regulations) if you want to cook something simple (like hot dogs).
+*   **Afternoon:** Head towards the nearby University of British Columbia (UBC) campus. Visit the stunning **Museum of Anthropology** ($) with its impressive collection of Pacific Northwest First Nations art and architecture. Alternatively, explore the peaceful **Nitobe Memorial Garden** ($), considered one of the most authentic Japanese gardens outside of Japan.
+*   **Evening:** Travel back towards the city centre.
+*   **Dinner:** Explore the vibrant **Commercial Drive** neighbourhood. *Why:* Known for its eclectic, multicultural dining scene. Find Italian, Latin American, or Ethiopian cuisine. **Absinthe Bistro** offers cozy French dining.
+*   **Anticipated Weather:** Sunny, warm, potentially a bit breezier on the wide-open beach.
+
+---
+
+**Day 6: Thursday, July 25 - Granville Island & Yaletown Waterfront**
+
+*   **Morning:** Make your way to **Granville Island**. Walk, bus, or take a small ferry (Aquabus/False Creek Ferry) from a dock like the one at Sunset Beach or Yaletown.
+*   **Late Morning/Lunch:** Explore the **Granville Island Public Market**. Sample local produce, baked goods, cheeses, and choose from a wide variety of food stalls for lunch.
+*   **Afternoon:** Wander around Granville Island, visiting artisan workshops, galleries, and shops. Enjoy the atmosphere. You could also rent a kayak or paddleboard from here to explore False Creek.
+*   **Late Afternoon:** Take an Aquabus across False Creek to the **Yaletown** area. Walk along the modern waterfront park.
+*   **Evening:** Explore Yaletown's trendy warehouse district converted into a vibrant neighbourhood.
+*   **Dinner:** **The Flying Pig (Yaletown)**. *Why:* A popular spot for hearty comfort food dishes in a lively setting. Or **Minami** for high-end Aburi sushi.
+*   **Anticipated Weather:** Sunny and warm, pleasant near the water.
+
+---
+
+**Day 7: Friday, July 26 - Third Beach Seclusion & Stanley Park Trails**
+
+*   **Morning:** Walk or cycle the seawall from English Bay towards Third Beach in Stanley Park. This sandy beach is more secluded than English Bay or Kits.
+*   **Lunch:** Pack snacks and water for a rustic beach day. Amenities are limited here.
+*   **Afternoon:** Relax on **Third Beach**, swim, or read a book. Afterwards, explore some of the forest trails in Stanley Park near Third Beach, like the trails around Beaver Lake (check if currently accessible/open).
+*   **Evening:** Stay at Third Beach for a more natural, quiet sunset experience compared to English Bay crowds. Head back via the seawall as dusk settles.
+*   **Dinner:** Casual dinner back near your accommodation or try a new spot in the West End area. **Stepho's Souvlaki Greek Taverna** (Robson St) is a popular, lively spot for Greek food.
+*   **Anticipated Weather:** Sunny and warm, sheltered within the park trees.
+
+---
+
+**Day 8: Saturday, July 27 - Gastown History & Lookout Views**
+
+*   **Morning:** Head to Vancouver's historic neighbourhood, **Gastown**. Wander the cobblestone streets, admire the Victorian architecture, and see the famous Steam Clock.
+*   **Lunch:** Casual lunch in Gastown. **Meat & Bread** is famous for its delicious gourmet sandwiches.
+*   **Afternoon:** Explore the boutiques, galleries, and souvenir shops in Gastown. You could also visit the **Vancouver Lookout** ($) atop Harbour Centre for panoramic city views.
+*   **Late Afternoon:** Walk towards nearby Chinatown, exploring the vibrant cultural gateway.
+*   **Evening:** Enjoy the atmosphere of Gastown as it lights up.
+*   **Dinner:** **L'Abattoir (Gastown)**. *Why:* A highly-rated restaurant offering French-influenced West Coast cuisine in a beautiful historic setting (reservations highly recommended).
+*   **Anticipated Weather:** Sunny and warm, urban environment.
+
+---
+
+**Day 9: Sunday, July 28 - Wreck Beach Adventure or Queen Elizabeth Park**
+
+*   **Option 1 (Adventurous Beach):** Head towards UBC/Pacific Spirit Regional Park area. Be prepared for a long, steep set of stairs down (and back up!) to access **Wreck Beach** (clothing-optional). Experience its unique, laid-back, natural vibe. Pack everything you need, as it's rustic.
+*   **Option 2 (Panoramic Views):** If Wreck Beach isn't your style, visit **Queen Elizabeth Park**. *Why:* Offers the city's best panoramic views. Explore the beautiful gardens, visit the Bloedel Conservatory ($), or play a round of pitch-and-putt golf.
+*   **Lunch:** If at Wreck Beach, pack a picnic. If at Queen Elizabeth Park, grab something from the cafe or nearby options.
+*   **Afternoon:** Spend more time at your chosen location, relaxing or exploring.
+*   *Potential Event:* This weekend might include events leading up to **Vancouver Pride Week**. Check local listings for specific events.
+*   **Evening:** Relax after a potentially active day.
+*   **Dinner:** Explore dining options in South Granville if you visited Queen Elizabeth Park, or try a new restaurant downtown. **Joe Fortes Seafood & Chop House** is a Vancouver institution for seafood.
+*   **Anticipated Weather:** Sunny and warm.
+
+---
+
+**Day 10: Monday, July 29 - Revisit a Favorite Beach or Celebration of Light Prep**
+
+*   **Morning:** Choose to revisit your favorite beach from the past week – perhaps Kits for the energy, Jericho for relaxation, or English Bay for convenience. Enjoy a relaxed morning soaking up the sun and swimming.
+*   **Lunch:** Casual beachside cafe or pack a picnic.
+*   **Afternoon:** Relax or do some souvenir shopping downtown.
+*   *Potential Event:* This is a likely date for one of the nights of the **Honda Celebration of Light** fireworks competition over English Bay. *Why:* A spectacular, must-see event unique to Vancouver summers.
+*   **Evening:** If Celebration of Light is on, head to English Bay or a nearby vantage point (like Sunset Beach, parts of Stanley Park seawall, or even Kits Point) early to secure a spot. Be prepared for large crowds. Enjoy the incredible fireworks display set to music.
+*   **Dinner:** Grab casual food from vendors or restaurants near your chosen fireworks viewing spot before or after the show, or pack a picnic to eat while waiting.
+*   **Anticipated Weather:** Sunny and warm during the day, pleasant evening, potentially crowded near English Bay.
+
+---
+
+**Day 11: Tuesday, July 30 - False Creek & Science World**
+
+*   **Morning:** Explore the False Creek area. Walk or cycle the seawall from Granville Island or Yaletown towards Science World. Enjoy the modern waterfront architecture and marinas.
+*   **Lunch:** Casual lunch in the False Creek area or near Science World.
+*   **Afternoon:** Visit **Science World at TELUS World of Science** ($). *Why:* An iconic geodesic dome housing fun, interactive science exhibits – entertaining regardless of age.
+*   **Late Afternoon:** Take the SeaBus ferry from Waterfront Station (easily accessible from downtown/Gastown via SkyTrain) across to **Lonsdale Quay** in North Vancouver. Enjoy the harbour views and browse the market at Lonsdale Quay.
+*   **Evening:** Take the SeaBus back to Waterfront.
+*   **Dinner:** Explore dining options near Waterfront Station or back in Gastown.
+*   **Anticipated Weather:** Sunny and warm, pleasant near the water.
+
+---
+
+**Day 12: Wednesday, July 31 - Lynn Canyon Nature Escape**
+
+*   **Morning:** Take public transit (SeaBus to Lonsdale Quay, then bus) or a rideshare to **Lynn Canyon Park** in North Vancouver. *Why:* Offers a free alternative to the Capilano Suspension Bridge, with beautiful rainforest trails and a stunning suspension bridge over a canyon.
+*   **Lunch:** Pack a picnic to enjoy in Lynn Canyon Park, or grab something from a cafe near Lonsdale Quay before heading to the park.
+*   **Afternoon:** Explore the trails in Lynn Canyon Park. Visit the suspension bridge, the Twin Falls bridge, and the Baden-Powell Trail sections within the park.
+*   **Late Afternoon:** Travel back to Vancouver.
+*   **Evening:** Relax or do some last-minute souvenir shopping.
+*   **Dinner:** Choose a neighbourhood you enjoyed or try a new spot. Perhaps explore Main Street south of False Creek for breweries and casual eateries.
+*   **Anticipated Weather:** Sunny and warm in the city, likely cooler and shadier under the forest canopy in Lynn Canyon.
+
+---
+
+**Day 13: Thursday, August 1 - Revisit & Relax**
+
+*   **Morning:** Enjoy a final morning at your absolute favorite beach or revisit a spot you didn't get enough of. Perhaps a long, relaxed walk at Spanish Banks or soaking up the sun at Kits.
+*   **Lunch:** A final beach picnic or visit a favorite casual spot.
+*   **Afternoon:** Relax at your accommodation, read a book, or do any last-minute activities you missed or wanted to repeat. Maybe a final walk along the seawall.
+*   *Potential Event:* This is the likely start of **Vancouver Pride** weekend festivities. Look out for smaller events or decorated areas if this interests you.
+*   **Evening:** Enjoy a special farewell dinner celebrating your amazing trip.
+*   **Dinner:** **AnnaLena (Kitsilano)**. *Why:* If you want to splurge for a memorable fine dining experience near the beach area (reservations essential). Alternatively, **Dockside Restaurant (Granville Island)** offers great views and food.
+*   **Anticipated Weather:** Sunny and warm, enjoying the last full day of summer weather.
+
+---
+
+**Day 14: Friday, August 2 - Departure**
+
+*   **Morning:** Enjoy a final Vancouver breakfast or coffee. Depending on your flight time, you might have time for a short walk.
+*   **Late Morning/Afternoon:** Check out from your accommodation.
+*   **Afternoon:** Travel back to Vancouver International Airport (YVR) via Canada Line SkyTrain or taxi/rideshare. Allow ample time for check-in and security.
+*   **Afternoon/Evening:** Depart Vancouver (YVR) for Montreal (YUL).
+
+---
+
+Enjoy your incredible beach-focused trip to Vancouver! The combination of stunning natural beauty and vibrant city life, especially centered around its fantastic beaches in the peak of summer, is truly unmatched. Have the BEST trip!
+```
