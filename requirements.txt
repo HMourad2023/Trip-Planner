@@ -44,7 +44,6 @@ bcrypt==4.3.0
     # via chromadb
 beautifulsoup4==4.13.4
     # via
-    #   embedchain
     #   unstructured
 blinker==1.9.0
     # via crewai
