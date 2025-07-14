@@ -1,37 +1,87 @@
 name: CI/CD Pipeline
 
 on:
+  # Déclenche la CI à chaque push sur la branche main
   push:
     branches: [ main ]
+  # Permet de déclencher la CD manuellement depuis l'interface GitHub
+  workflow_dispatch:
 
 jobs:
-  build_and_push:
+  # ==================================
+  #  ÉTAPE 1 : INTÉGRATION CONTINUE (CI)
+  # ==================================
+  ci_build:
+    name: 1. Build & Test Images
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v2
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
 
-    - name: Log in to Docker Hub
-      uses: docker/login-action@v2
-      with:
-        username: ${{ secrets.DOCKERHUB_USERNAME }}
-        password: ${{ secrets.DOCKERHUB_TOKEN }}
+      - name: Build backend image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile.backend
+          # On ne pousse pas l'image, on la charge juste localement pour la sauvegarder
+          push: false
+          load: true
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/trip-planner-backend:latest
 
-    - name: Build and push backend image
-      uses: docker/build-push-action@v4
-      with:
-        context: .
-        file: ./Dockerfile.backend
-        push: true
-        tags: ${{ secrets.DOCKERHUB_USERNAME }}/trip-planner-backend:latest
+      - name: Build frontend image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile.frontend
+          push: false
+          load: true
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/trip-planner-frontend:latest
 
-    - name: Build and push frontend image
-      uses: docker/build-push-action@v4
-      with:
-        context: .
-        file: ./Dockerfile.frontend
-        push: true
-        tags: ${{ secrets.DOCKERHUB_USERNAME }}/trip-planner-frontend:latest
+      - name: Save Docker images as artifacts
+        run: |
+          docker save ${{ secrets.DOCKERHUB_USERNAME }}/trip-planner-backend:latest -o backend-image.tar
+          docker save ${{ secrets.DOCKERHUB_USERNAME }}/trip-planner-frontend:latest -o frontend-image.tar
+
+      - name: Upload image artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: docker-images
+          path: |
+            backend-image.tar
+            frontend-image.tar
+
+  # ===================================
+  #  ÉTAPE 2 : DÉPLOIEMENT CONTINU (CD)
+  # ===================================
+  cd_publish:
+    name: 2. Publish to Docker Hub
+    # S'exécute seulement après le succès de 'ci_build'
+    needs: ci_build
+    # S'exécute seulement si le workflow a été déclenché manuellement
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download image artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: docker-images
+
+      - name: Load Docker images
+        run: |
+          docker load -i backend-image.tar
+          docker load -i frontend-image.tar
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Push backend image to Docker Hub
+        run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/trip-planner-backend:latest
+
+      - name: Push frontend image to Docker Hub
+        run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/trip-planner-frontend:latest
